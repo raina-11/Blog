@@ -1,4 +1,4 @@
-###Community Bonding
+### Community Bonding
 * This week being marked as Community Bonding period.
 * We have received our Case Western Reserve University (CWRU) ID
 * We are required to set up accounts on the Gallina HPC cluster at Case Western Reserve University
